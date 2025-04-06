@@ -1,8 +1,7 @@
 # task3-Personal-portfolio
 COMPANY :CODTECH IT SOLUTION PVT.LTD
 
-NAME : ZANZRUKIYA RAHUL H![Screenshot 2023-07-12 205031](https://github.com/user-attachments/assets/bdb868e0-f945-4044-a6d3-64d399749a8e)
-
+NAME : ZANZRUKIYA RAHUL H
 
 INTERN ID : CT4MGGM
 

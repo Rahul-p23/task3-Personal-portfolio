@@ -1,7 +1,8 @@
 # task3-Personal-portfolio
 COMPANY :CODTECH IT SOLUTION PVT.LTD
 
-NAME : ZANZRUKIYA RAHUL
+NAME : ZANZRUKIYA RAHUL H![Screenshot 2023-07-12 205031](https://github.com/user-attachments/assets/bdb868e0-f945-4044-a6d3-64d399749a8e)
+
 
 INTERN ID : CT4MGGM
 
@@ -9,7 +10,7 @@ DOMAIN: FRONTEND WEB DEVLOPMENT
 
 BATCH DURATION: 25 DEC 2024, 25 APR 2025
 
-MENTOR NAME : NEELAM SANTOSH
+MENTOR NAME : NEELA SANTHOSH
 
 OVERVIEW OF PROJECT:
 
@@ -74,3 +75,10 @@ Development Process
 A portfolio website is a critical tool for anyone looking to stand out in a competitive digital world. It offers a personalized way to present your professional identity, creating opportunities for collaboration, employment, and growth. By thoughtfully designing and maintaining your portfolio, you ensure a strong and lasting impression on your audience.
 
 OUTPUT :
+![Screenshot_6-4-2025_211058_127 0 0 1](https://github.com/user-attachments/assets/b0fcfe67-7166-43f6-85d2-24d1d1705410)
+
+![Screenshot_6-4-2025_211115_127 0 0 1](https://github.com/user-attachments/assets/ed23136c-7ce7-4c0d-bb3a-92852b371102)
+
+![Screenshot_6-4-2025_211133_127 0 0 1](https://github.com/user-attachments/assets/4633dc02-7d84-44f1-9347-47a60354832b)
+
+![Screenshot_6-4-2025_211152_127 0 0 1](https://github.com/user-attachments/assets/4c40c8a8-311e-44d8-9a39-caa4281c1e26)
